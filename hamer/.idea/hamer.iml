@@ -9,6 +9,7 @@
       </configuration>
     </facet>
   </component>
+<<<<<<< HEAD
   <component name="ModuleRunConfigurationManager">
     <configuration default="false" name="test: hamer" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="hamer" />
@@ -109,6 +110,8 @@
       <method />
     </configuration>
   </component>
+=======
+>>>>>>> urok
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
